@@ -10,5 +10,5 @@ Anything You want to update you can create a pull request and I can look over an
 <br>
 <br>
 <br>
-<h2>Check the BackgroundChanger here </h2>   Click the link in the description or <a href = "https://jayanttokas.github.io/Project_ChangeBackgroundColor.github.io/"> click here </a>
+<h2>Check the BackgroundChanger here </h2>   Click the link in the description or <a href = "https://jayanttokas.github.io/Project_ChangeBgColorWithHexcolor.github.io/"> click here </a>
 
